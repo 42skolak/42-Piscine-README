@@ -17,7 +17,7 @@ Bu sistemin beni hızlı ve kalıcı şekilde geliştirdiğini açıkça fark et
 ## 📝 Notlar
 
 - 💻 **İlk gün bilgisayarda oturum açarken** size verilen 42 e-posta adresinin tamamını yazmamalısınız.  
-  📌 Örnek: `ahmet@student.42istanbul.com.tr` yerine sadece `ahmet` yazmanız yeterlidir.
+  📌 Örnek: `ahmet@student.42kocaeli.com.tr` yerine sadece `ahmet` yazmanız yeterlidir.
 
 - ❗ **Hatalardan korkmayın!** 42'de hata yapmak öğrenmenin doğal bir parçası.  
   Deneyin, sorun, araştırın ve tekrar deneyin.
